@@ -14,12 +14,14 @@ Service Details: Offers insights into our diverse offerings.
 
 
 Technologies Used
+
 HTML5
 CSS3 (with SCSS for styling)
 JavaScript
 
 
 Project Structure
+
 index.html: Homepage markup.
 style.css: Compiled CSS from SCSS for styling.
 style.scss: Source SCSS with variables and mixins.
