@@ -2,9 +2,11 @@
 This project represents my final internship project at Nexus Info, where I was tasked with creating a comprehensive website for a software company. The goal was to showcase my expertise in delivering top-notch web solutions.
 
 Overview
+
 Built with modern web technologies, this website offers a seamless and engaging user experience, highlighting the services, portfolio, and innovative projects that reflect our commitment to excellence in the IT industry.
 
 Features
+
 Responsive Design: Ensures optimal viewing on all devices.
 Interactive UI: Provides dynamic content with smooth navigation.
 Portfolio Showcase: Highlights our projects and case studies.
